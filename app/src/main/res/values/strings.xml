@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Exolon</string>
+    <string name="subtitle_spectrum">ZX SPECTRUM EDITION • 1987</string>
+    <string name="btn_start_game">СТАРТ ИГРЫ</string>
+    <string name="btn_continue">ПРОДОЛЖИТЬ</string>
+    <string name="btn_high_scores">РЕКОРДЫ</string>
+    <string name="btn_controls_guide">УПРАВЛЕНИЕ</string>
+    <string name="btn_restart">ЗАНОВО</string>
+    <string name="btn_main_menu">МЕНЮ</string>
+    <string name="label_score">СЧЁТ</string>
+    <string name="label_hi_score">РЕКОРД</string>
+    <string name="label_ammo">ЛАЗЕР</string>
+    <string name="label_grenades">ГРАНАТЫ</string>
+    <string name="label_lives">ЖИЗНИ</string>
+    <string name="label_zone">СЕКТОР</string>
+    <string name="label_exo_active">ЭКЗО-КОСТЮМ</string>
+    <string name="control_left">Влево</string>
+    <string name="control_right">Вправо</string>
+    <string name="control_duck">Присесть</string>
+    <string name="control_jump">Прыжок</string>
+    <string name="control_fire">Огонь</string>
+    <string name="control_grenade">Граната</string>
+    <string name="paused_title">ПАУЗА</string>
+    <string name="game_over_title">ИГРА ОКОНЧЕНА</string>
+    <string name="victory_title">МИССИЯ ВЫПОЛНЕНА!</string>
+    <string name="sound_on">Звук: ВКЛ</string>
+    <string name="sound_off">Звук: ВЫКЛ</string>
+    <string name="crt_on">CRT-экран: ВКЛ</string>
+    <string name="crt_off">CRT-экран: ВЫКЛ</string>
+    <string name="touch_mode_pad">Кнопки (2 пальца)</string>
+    <string name="touch_mode_swipe">Свайпы и тапы</string>
+</resources>
